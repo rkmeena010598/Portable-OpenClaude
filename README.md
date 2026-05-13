@@ -1,4 +1,4 @@
-# OpenClaude — Portable AI Coding Agent
+# OpenClaude AI Coding Agent
 
 > **Run a full-featured AI coding agent from a USB drive or any folder — no installation required.**
 > Plug in. Launch. Code. Take it anywhere.
